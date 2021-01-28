@@ -1,7 +1,7 @@
 {
     "_language": "Français",
 
-    "language-changed": "La langue d'affichage a changé. Voulez-vous recharger la page pour mettre à jours toutes les traductions ? Sinon certaines pourraient ne pas être mises à jour automatiquement.",
+    "language-changed": "La langue d'affichage a changée. Voulez-vous recharger la page afin de mettre à jour toutes les traductions ? Autrement certaines pourraient ne pas être mises à jour automatiquement.",
 
     "back-to-app": "Retour à {appName}",
     "back-to-accounts": "Retour à mes comptes",
@@ -16,9 +16,9 @@
     "funding-cashlink": "Financement du cashlink",
 
     "recovery-words-title": "Écrivez ces 24 Mots sur du papier",
-    "recovery-words-intro-text": "Les Mots de Récupération sont le SEUL moyen de restorer votre compte dans le cas où vous perdriez votre Ficher de Connexion ou votre mot de passe.",
+    "recovery-words-intro-text": "Les Mots de Récupération sont le SEUL moyen de restaurer votre compte dans l'éventualité où vous perdriez votre Ficher de Connexion ou votre mot de passe.",
     "recovery-words-intro-offline": "Gardez vos mots hors-ligne, ne les renseignez nulle part hormis sur [strong]keyguard[/strong].nimiq.com.",
-    "recovery-words-intro-copy": "Créez une copie et stockez-la dans un endroit sûr: maison familiale, coffre de banque, etc.",
+    "recovery-words-intro-copy": "Créez une copie et entreposez-la dans un endroit sûr: maison familiale, coffre de banque, etc.",
     "recovery-words-intro-safety": "Faites attention à l'eau et au feu, utilisez une boîte scellée pour protéger vos Mots de Récupération.",
     "recovery-words-text": "N'importe qui avec ces mots peut accéder à votre compte ! Gardez-les en lieu sûr.",
     "recovery-words-validate": "Valider la sauvegarde",
@@ -37,8 +37,8 @@
 
     "import-file-button-words": "Se connecter avec les Mots de Récupération",
 
-    "import-words-file-available": "L'utilisation des Mots de Récupération crée un nouveau Fichier de Connexion. Créez un mot de passe pour le sécuriser.",
-    "import-words-file-unavailable": "L'utilisation des Mots de Récupération crée un nouveau compte. Créez un mot de passe pour le sécuriser.",
+    "import-words-file-available": "L'utilisation des Mots de Récupération génère un nouveau Fichier de Connexion. Créez un mot de passe pour le sécuriser.",
+    "import-words-file-unavailable": "L'utilisation des Mots de Récupération génère un nouveau compte. Créez un mot de passe pour le sécuriser.",
     "import-words-hint": "Pressez Tab pour passer au champ suivant",
     "import-words-error": "Ce n'est pas un compte valide. Faute de frappe ?",
     "import-words-wrong-seed-phrase": "Ces Mots de Récupération appartiennent à un autre compte",
@@ -79,7 +79,7 @@
     "passwordbox-sign-msg": "Signer le message",
     "passwordbox-confirm-swap": "Confirmer le swap",
     "passwordbox-password-strength-short": "Entrez 8 caractères ou plus",
-    "passwordbox-password-strength-weak": "Faible mot de passe",
+    "passwordbox-password-strength-weak": "Mot de passe faible",
     "passwordbox-password-strength-good": "Bon mot de passe",
     "passwordbox-password-strength-strong": "Très bon mot de passe",
     "passwordbox-password-strength-secure": "Excellent mot de passe",
@@ -109,12 +109,12 @@
     "timer-day": "jour",
     "timer-days": "jours",
 
-    "identicon-selector-avatars-hint": "Les avatars représentes les adresses.",
+    "identicon-selector-avatars-hint": "Les avatars représentent les adresses.",
     "identicon-selector-generate-new": "Nouveaux avatars",
 
     "download-loginfile-download": "Télécharger",
     "download-loginfile-successful": "Téléchargement réussi ?",
-    "download-loginfile-tap-and-hold": "Appuyez et maintenez l'image pour la télécharger",
+    "download-loginfile-tap-and-hold": "Appuyez et maintenez sur l'image pour la télécharger",
     "download-loginfile-continue": "Continuez lorsque vous êtes prêt",
     "download-loginfile-download-again": "Télécharger à nouveau",
 
@@ -176,10 +176,10 @@
     "derive-address-password-text": "Pour ajouter une nouvelle adresse, veuillez[br]d'abord déverrouiller votre compte.",
 
     "change-password-heading": "Confirmez l'ancien Mot de Passe",
-    "change-password-paragraph": "La modification du mot de passe créera un nouveau Fichier de Connexion qui remplace l'actuel.",
+    "change-password-paragraph": "La modification du mot de passe générera un nouveau Fichier de Connexion qui remplacera l'actuel.",
     "change-password-paragraph-legacy": "La modification du mot de passe n'a d'effet que sur cet appareil.",
     "change-password-info-item-1": "Tous les anciens Fichiers de Connexion fonctionnent toujours avec leurs anciens mots de passe.",
-    "change-password-info-item-2": "Si un Fichier de Connexion a été compromis : veuillez créer un nouveau compte et transférer tous les fonds.",
+    "change-password-info-item-2": "Si un Fichier de Connexion a été compromis : veuillez créer un nouveau compte et transférer vos fonds.",
     "change-password-download-login-file": "Télécharger le nouveau Fichier de Connexion",
     "change-password-set-password-heading": "Créez un nouveau Mot de Passe",
     "change-password-set-password-text": "Sécurisez votre nouveau Fichier de Connexion.",
